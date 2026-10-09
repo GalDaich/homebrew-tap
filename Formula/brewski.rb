@@ -1,8 +1,8 @@
 class Brewski < Formula
   desc "Update, clean, and check a Homebrew installation"
   homepage "https://github.com/GalDaich/brewski"
-  url "https://github.com/GalDaich/brewski/releases/download/v0.1.0/brewski-0.1.0.tar.gz"
-  sha256 "e08cef2d5181a8ad5e76beb543be14869b7ca42c4c86a7dce03db1bf11327535"
+  url "https://github.com/GalDaich/brewski/releases/download/v0.1.1/brewski-0.1.1.tar.gz"
+  sha256 "3e4e6980be5c89937bed4462a1c079bce46545d88641f2ca80ae515826a95f64"
   license "MIT"
 
   depends_on :macos
